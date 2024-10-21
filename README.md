@@ -1,4 +1,3 @@
-# Pitch-Recognition-and-Sequencing-Project
 Pitch Recognition and Sequencing Analysis for MLB Athletes
 Overview
 This project explores pitch recognition and sequencing analysis using MLB data. The goal is to uncover patterns in pitch sequences and their outcomes, which can help athletes and coaches better understand how pitchers operate and how different pitch sequences affect at-bat results. The insights can be applied to virtual reality-based training systems like those used by WIN Reality, enhancing a player's pitch recognition and in-game decision-making.
